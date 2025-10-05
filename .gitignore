@@ -1,0 +1,45 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+**/.idea/
+**/.DS_Store
+
+# Environment files
+.env
+*/.env
+**/.env
+venv/
+/venv
+**/venv
+.venv
+**.venv
+.venv1
+**.venv1
+
+# Cache files
+.cache
+*/.cache
+**/.cache
+token.txt
+*/token.txt
+**/token.txt
+
+# images
+/images
+**/images
+/templates
+**/templates
+/static
+**/static
+/assets
+**/assets
+
+# database
+*.db
+*.sqlite
+*.sqlite3
