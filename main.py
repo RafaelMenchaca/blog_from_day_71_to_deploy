@@ -1,4 +1,3 @@
-from cgitb import text
 from datetime import date
 from typing import List
 from flask import Flask, abort, render_template, redirect, request, url_for, flash
