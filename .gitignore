@@ -30,16 +30,21 @@ token.txt
 **/token.txt
 
 # images
-/images
-**/images
-/templates
-**/templates
-/static
-**/static
-/assets
-**/assets
+# /images
+# **/images
+# /templates
+# **/templates
+# /static
+# **/static
+# /assets
+# **/assets
 
 # database
 *.db
 *.sqlite
 *.sqlite3
+*/.db
+**/.db
+*/.sqlite
+instance/
+**/instance/
